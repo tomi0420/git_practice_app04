@@ -22,6 +22,7 @@ class PostsController < ApplicationController
 
   # GET /posts/1/edit
   def edit
+    ffffffffff
   end
 
   # POST /posts
